@@ -7,7 +7,7 @@ This repo is all about fine-tuning HuggingFace Transformers for token classifica
 
 I hope these scripts help you fine-tune and deploy your models with ease!
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 Here’s a quick rundown of what you’ll find in this repo:
 
@@ -17,7 +17,7 @@ Here’s a quick rundown of what you’ll find in this repo:
 
 - **`models/ner-token-classification/`**: This is where the fine-tuned and optimized models will be saved. After fine-tuning and optimizing, you'll find your models here, ready for action!
 
-## 📜 Scripts
+## Scripts
 
 Here's what each script in the repo does:
 
@@ -34,7 +34,7 @@ Here's what each script in the repo does:
    Similar to the `02` script, but specifically for inference with the optimized model (using ONNX Runtime). Get faster predictions using a CPU!
 
 
-## ⚠️ Requirements and Installation Warnings
+## Requirements and Installation Warnings
 
 Before you dive into the scripts, here are a few important notes about the dependencies and installation process:
 
