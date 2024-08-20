@@ -1,0 +1,13 @@
+{
+    "O": 0,
+    "B-${competitor}": 1,
+    "B-${product-competitor}": 2,
+    "B-${product-desc}": 3,
+    "B-${product}": 4,
+    "B-${qty}": 5,
+    "I-${competitor}": 6,
+    "I-${product-competitor}": 7,
+    "I-${product-desc}": 8,
+    "I-${product}": 9,
+    "I-${qty}": 10
+}
