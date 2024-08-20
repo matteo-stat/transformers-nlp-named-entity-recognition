@@ -3,7 +3,7 @@
 
 Welcome to the **transformers-nlp-ner-token-classification** repository! 🎉
 
-This repo is all about fine-tuning HuggingFace Transformers for token classification (NER - Named Entity Recognition), setting up pipelines, and optimizing models for faster inference. It comes from my experience developing a custom chatbot with named entity recognition, where multiple entities can be found in users messages.
+This repo is all about fine-tuning HuggingFace Transformers for token classification (NER - Named Entity Recognition), setting up pipelines, and optimizing models for faster inference. It comes from my experience developing a custom chatbot, where multiple entities could be found in users messages.
 
 I hope these scripts help you fine-tune and deploy your models with ease!
 
