@@ -40,10 +40,10 @@ Before you dive into the scripts, here are a few important notes about the depen
 
 ### Dependency Files
 
-   - **`requirements-with-inference-optimization.txt`**  
+   - **`requirements-without-inference-optimization.txt`**  
      Includes dependencies for scripts `01-ner-token-classification-train.py` and `02-ner-token-classification-pipeline.py` (excludes ONNX Runtime dependencies).
 
-   - **`requirements-without-inference-optimization.txt`**  
+   - **`requirements-with-inference-optimization.txt`**  
      Includes dependencies for all scripts, including ONNX Runtime dependencies for optimization and inference.
 
 ### Note for PyTorch and NVIDIA GPUs
